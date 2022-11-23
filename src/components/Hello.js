@@ -42,7 +42,7 @@ function Hello() {
                 </ul>
             </div>
           </div>
-          <div>
+          <div className='row'>
             <img class='footer-image' src={footerImage} alt=''/>  
           </div>
       </section>

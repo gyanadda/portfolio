@@ -175,8 +175,8 @@ img.my-pic {
   width: 55%;
 }
 
-.footer-image {
-  width: 100vh;
+img.footer-image {
+  width: 62.5em;
   max-height: 30vh;
   opacity: 0.5;
 }
